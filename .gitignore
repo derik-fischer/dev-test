@@ -159,3 +159,6 @@ nbdist/
 .nb-gradle/
 
 # End of https://www.gitignore.io/api/java,eclipse,netbeans,java-web,code-java,intellij+all
+
+# IML
+*.iml
